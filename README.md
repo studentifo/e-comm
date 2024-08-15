@@ -9,4 +9,5 @@
     
 [Visit website here](https://studentifo.github.io/e-comm/)<br>
 
-![Screenshot (443)](https://github.com/user-attachments/assets/cd90bb59-6af9-429a-aaaa-ea9433767210)
+![Screenshot (443)](https://github.com/user-attachments/assets/56e2735c-dd16-47a3-877c-d65c63e8d78c)
+
