@@ -8,3 +8,5 @@
     6) pay now ( its a check out at finall payment)<br>
     
 [Visit website here](https://studentifo.github.io/e-comm/)<br>
+
+![Screenshot (443)](https://github.com/user-attachments/assets/cd90bb59-6af9-429a-aaaa-ea9433767210)
