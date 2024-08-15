@@ -1,5 +1,5 @@
 # E-Commerce web site with cart functionalities:<br>
-Cart functionalities include :<br>
+**Cart functionalities include :<br>**
     1) Adding Item into cart <br>
     2) Removing the particular item from cart<br>
     3) Incrementing the item quantity <br>
