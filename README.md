@@ -7,3 +7,4 @@
     5) Clearing all items once ( it will remove all items at once in cart)<br>
     6) pay now ( its a check out at finall payment)<br>
     
+[Visit website here](https://studentifo.github.io/e-comm/)<br>
